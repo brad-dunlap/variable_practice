@@ -6,3 +6,6 @@ last4 = 9999
 phone = 6609883522
 salary = 100000.00
 gpa = 4.0
+handsome = true
+single = false
+jobseeking = true
