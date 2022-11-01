@@ -9,3 +9,6 @@ gpa = 4.0
 handsome = true
 single = false
 jobseeking = true
+
+name = "Bradley Dunlap"
+location = "College Park"
