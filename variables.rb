@@ -12,3 +12,9 @@ jobseeking = true
 
 name = "Bradley Dunlap"
 location = "College Park"
+
+
+puts name
+puts age
+puts salary
+puts jobseeking
