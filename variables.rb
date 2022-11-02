@@ -18,3 +18,4 @@ puts name
 puts age
 puts salary
 puts jobseeking
+puts age
